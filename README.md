@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=1600&q=80" alt="cover" width="92%" />
-</p>
-
 ---
 
 ## ✨ Features
