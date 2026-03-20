@@ -1,0 +1,55 @@
+{
+  "reminders": {
+    "oc_786e5cb9f69a605a426452df83607434": {
+      "chat_id": "oc_786e5cb9f69a605a426452df83607434",
+      "advance_days": 2,
+      "filters": {
+        "related_bu_team": "Lighting",
+        "issuetype": "development, Cal Dev",
+        "status": "Open",
+        "assignee": null,
+        "priority": null,
+        "project": null
+      },
+      "enabled": true,
+      "reminder_hour": 9,
+      "reminder_minute": 0,
+      "created_at": "2026-01-27 11:48:27",
+      "updated_at": "2026-01-28 15:07:44"
+    },
+    "oc_e0606fd321e5b6401b9a30d6f7b8b3fb": {
+      "chat_id": "oc_e0606fd321e5b6401b9a30d6f7b8b3fb",
+      "advance_days": 2,
+      "filters": {
+        "related_bu_team": "Lighting",
+        "issuetype": "development, Cal Dev",
+        "status": "Open",
+        "assignee": null,
+        "priority": null,
+        "project": null
+      },
+      "enabled": true,
+      "reminder_hour": 9,
+      "reminder_minute": 0,
+      "created_at": "2026-01-27 12:13:41",
+      "updated_at": "2026-02-02 10:27:18"
+    },
+    "oc_f8a2a0eaea197f4e97e47d225ecfa7c7": {
+      "chat_id": "oc_f8a2a0eaea197f4e97e47d225ecfa7c7",
+      "advance_days": 8,
+      "filters": {
+        "related_bu_team": "Seat",
+        "issuetype": "Cal Dev",
+        "status": "Open",
+        "assignee": null,
+        "priority": null,
+        "project": null
+      },
+      "enabled": true,
+      "reminder_hour": 10,
+      "reminder_minute": 0,
+      "created_at": "2026-01-28 10:51:17",
+      "updated_at": "2026-01-30 09:59:30"
+    }
+  }
+}

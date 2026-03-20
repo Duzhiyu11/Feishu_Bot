@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+crewai
+litellm
+requests
+apscheduler
+dotenv
+langfuse
+openinference-instrumentation-crewai 
+openinference-instrumentation-litellm

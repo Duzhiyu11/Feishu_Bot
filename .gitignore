@@ -1,0 +1,10 @@
+# local git recovery backups (never commit)
+.git.corrupt.bak-*/
+
+venv
+__pycache__
+llm_call_logs
+logs
+.env
+*.env
+jam_config.local.yaml
